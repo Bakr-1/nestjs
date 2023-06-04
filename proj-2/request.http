@@ -1,0 +1,11 @@
+# GET http://localhost:3000/messages
+
+
+# POST http://localhost:3000/messages
+# Content-Type: application/json
+
+# {
+#   "content": "Hello World"
+# }
+
+GET http://localhost:3000/messages/303
